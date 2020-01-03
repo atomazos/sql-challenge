@@ -1,6 +1,8 @@
 # sql-challenge
 ## Data Modeling, Data Engineering, Data Analysis
 I designed tables to hold data in CSVs ("data modeling"), imported the CSVs into a SQL database ("data engineering"), and answered questions regarding the data ("data analysis"). 
+![Avergare Salary of Employees by Title Barplot copy](https://user-images.githubusercontent.com/54033512/71752386-7f807400-2e44-11ea-88e9-b2c8e0c40c24.png)
+![Salary Range Histogram copy](https://user-images.githubusercontent.com/54033512/71752407-92934400-2e44-11ea-9d94-44374e645235.png)
 ### Data Modeling
  - First, I examined the CSVs and sketch out an ERD of the tables.
 ### Data Engineering
